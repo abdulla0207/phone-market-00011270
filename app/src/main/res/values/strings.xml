@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ShopOnline</string>
+    <string name="profile_tab_title">Profile</string>
+    <string name="favs_tab_title">Favorites</string>
+    <string name="settings_tab_title">Settings</string>
+
+    <string name="profile_nav_tab_title">Profile</string>
+    <string name="products_nav_tab_title">Products</string>
+    <string name="favorites_nav_tab_title">Favorites</string>
+    <string name="settings_nav_tab_title">Settings</string>
+
+    <string name="price_label">\u0024%1$s</string>
+    <string name="image_content_desc_title">Image</string>
+    <string name="contact_number_title">Contacts: %s</string>
+
+    <string name="list_add_new_title">Add Product</string>
+    <string name="add_new_product_title">Product Name</string>
+    <string name="add_price_title">Price</string>
+    <string name="add_phone_number_example_title">+998xx_xxx_xx_xx</string>
+    <string name="save_button_title">Save</string>
+    <string name="back_button_title">Back</string>
+
+    <string name="validation_title">Wrong input! Try again!</string>
+
+    <string name="add_new_saved_msg">Saved</string>
+    <string name="add_new_failed_msg">Failed</string>
+    <string name="add_new_in_progress_msg">In progress</string>
+
+    <string name="name_phone_empty">Name or Phone number cannot be empty</string>
+    <string name="phone_number_format_mismatch">Phone number format should be (+998xx_xxx_xx_xx)</string>
+    <string name="price_validation">Price cannot be 0 or negative</string>
+    <string name="descritption_title">Description</string>
+
+    <string name="product">Product:</string>
+    <string name="price">Price:</string>
+    <string name="description">Description:</string>
+    <string name="contacts">Contacts:</string>
+
+    <string name="delete_text">Delete</string>
+    <string name="edit_text">Edit</string>
+
+    <string name="go_back">Back</string>
+
+    <string name="item_sold_title">This product has already been sold</string>
+    <string name="buy_button_title">Buy</string>
+
+    <string name="go_back_arrow">back arrow</string>
+    <string name="error_msg">ERROR</string>
+    <string name="product_sold">Product SOLD!</string>
+</resources>
